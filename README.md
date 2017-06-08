@@ -17,5 +17,5 @@ For this test, I've done the following:
 
 - I produced the background using the /perfect keyword (no Poisson fluctuations on the background count rate) and by increasing the background exposure by a factor of 1e6 to ensure that the background is properly sampled. This should give a "smooth" background curve that can be used for simulations and maximum likelihood analysis methods.
 
-- Check out [Juypyter Notebook](SolarDataExamples.ipynb) that shows how to handle the various data formats.
+- Check out [Jupyter Notebook](SolarDataExamples.ipynb) that shows how to handle the various data formats.
 
